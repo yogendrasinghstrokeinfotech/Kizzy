@@ -635,10 +635,9 @@ a.nav-link:hover {
     opacity: 1;
 }
 
-.insta-img.insta-img:hover {
+.Stay-item:hover .insta-img {
     opacity: 1;
 }
-
 @keyframes slide-out-image-2 {
     from {
         left: 100px;
