@@ -538,11 +538,11 @@ a.nav-link:hover {
     position: absolute;
     top: 0%;
     bottom: 0%;
-    left: 0%;
+    
     right: 0%;
     justify-content: center;
     align-items: center;
-    display: flex;
+    
     margin: auto auto !important;
     height: 50px;
     opacity: 0;
@@ -552,7 +552,12 @@ a.nav-link:hover {
     transition: 1s;
     opacity: 1;
 }
+<<<<<<< HEAD
+
+.Stay-item:hover .insta-img {
+=======
 .insta-img.insta-img:hover {
+>>>>>>> 9ff70a59cbc73cd1ed99387dfc827af0f37d3249
     opacity: 1;
 }
 @keyframes slide-out-image-2 {
@@ -583,7 +588,6 @@ a.nav-link:hover {
     background-size: cover;
     background-color: #fc5fa0;
     padding: 50px !important;
-    border-radius: 40px;
     margin-top: 110px !important;
     position: relative;
 }
@@ -604,7 +608,6 @@ a.nav-link:hover {
 .product-btn {
     background-color: #ffd646;
     color: #3d1959;
-    text-align: center;
     border-radius: 20px;
     padding: 10px 30px !important;
     font-size: 18px;

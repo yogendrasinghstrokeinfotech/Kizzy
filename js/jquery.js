@@ -11,7 +11,6 @@ $(document).ready(function () {
     },
     function () {
       $("#drink-bottle-one img").css({
-        transform: "rotate(0deg)",
         transition: "1s",
       });
       $("#drink-bottle-one a").hide();
@@ -83,7 +82,6 @@ $(document).ready(function () {
     },
     function () {
       $(this).children().css({ color: "#3d1959", transition: "0.5s" });
-      title = $(this).attr("data-title");
       testtt = $(".cold-drink-img").find("[data-title='" + title + "']");
       $(testtt).css({ height: "220px", transition: "1s" });
     }
