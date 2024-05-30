@@ -1,0 +1,382 @@
+@media only screen and (min-width: 992px) and (max-width: 1400px) {
+    .bottle {
+        width: 45%;
+    }
+
+    .friuts {
+        top: 248px;
+        left: -84px;
+        width: 500px;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .Our-Specials-img {
+        text-align: center;
+        margin-bottom: 30px !important;
+    }
+
+    .cold-drink-img-one {
+        left: 15%;
+        height: 150px;
+    }
+
+    .cold-drink-img-four {
+        right: 12%;
+        height: 150px;
+    }
+
+    .cold-drink-img-two {
+        top: 281px;
+        right: 3%;
+        height: 150px;
+    }
+
+    .cold-drink-img-three {
+        right: 12%;
+        height: 150px;
+    }
+
+    .cold-drink-img-five {
+        left: 15%;
+        height: 150px;
+    }
+
+    .cold-drink-img-six {
+        top: 525px;
+        left: 16%;
+        height: 150px;
+    }
+
+    .A-better,
+    .Our-Specials,
+    .main-cold-drink,
+    .kizzy-Strawberry-Milk,
+    .Stay-Connected,
+    .main-new-fresh,
+    .main-footer {
+        padding: 50px 50px !important;
+    }
+
+    .main-new-fresh-row {
+        display: block;
+    }
+
+    .main-footer .row {
+        flex-direction: column-reverse;
+    }
+
+    .footer-logo {
+        margin-left: 0px !important;
+    }
+
+    .copyright {
+        margin: 30px 0 !important;
+    }
+
+    .row.menu-fo {
+        flex-direction: row;
+    }
+
+    .footer-last-img {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    a.navbar-brand img {
+        width: 25% !important;
+        display: inline-block;
+        align-items: center;
+    }
+
+    .sidebar-left {
+        height: auto;
+        z-index: 999 !important;
+        align-items: center;
+        margin: auto 0 !important;
+        display: flex;
+    }
+
+    #navbarNavDropdown {
+        background: #3d1959;
+        width: 100%;
+        margin-top: 20px !important;
+    }
+
+    .navbar {
+        min-height: 0;
+        display: ruby;
+        padding: 15px 4px !important;
+        text-align: left !important;
+    }
+
+    .cart {
+        padding: 0px 0 !important;
+    }
+
+    .cart .nav-link {
+        padding: 0 0 !important;
+    }
+
+    .hero-content {
+        padding: 50px 50px 200px 50px !important;
+    }
+
+    .A-better,
+    .Our-Specials,
+    .main-cold-drink,
+    .kizzy-Strawberry-Milk,
+    .Stay-Connected,
+    .main-new-fresh,
+    .main-footer {
+        padding: 50px 50px !important;
+    }
+
+    .bottle {
+        left: 0;
+        width: 250px;
+        top: 0;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        margin: 0 auto !important;
+    }
+
+    .Our-Specials-img {
+        text-align: center;
+        margin-bottom: 30px !important;
+    }
+
+    .footer-last-img {
+        display: none;
+    }
+
+    .cold-drink-img-one,
+    .cold-drink-img-two,
+    .cold-drink-img-three,
+    .cold-drink-img-four,
+    .cold-drink-img-five,
+    .cold-drink-img-six {
+        display: none;
+    }
+
+    .main-new-fresh-row {
+        display: block;
+    }
+
+    .main-footer .row {
+        flex-direction: column-reverse;
+    }
+
+    .footer-logo {
+        margin-left: 0px !important;
+    }
+
+    .copyright {
+        margin: 30px 0 !important;
+    }
+
+    .row.menu-fo {
+        flex-direction: row;
+    }
+
+    .footer-last-img {
+        display: none;
+    }
+
+    .Main-Stay {
+        display: block;
+    }
+
+    .Stay-item {
+        margin-bottom: 30px !important;
+    }
+
+    .stay-img {
+        width: 100% !important;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    a.navbar-brand img {
+        width: 25% !important;
+        display: inline-block;
+        align-items: center;
+    }
+
+    .sidebar-left {
+        height: auto;
+        z-index: 999 !important;
+        align-items: center;
+        margin: auto 0 !important;
+        display: flex;
+    }
+
+    #navbarNavDropdown {
+        background: #3d1959;
+        width: 100%;
+        margin-top: 20px !important;
+    }
+
+    .navbar {
+        min-height: 0;
+        display: ruby;
+        padding: 15px 4px !important;
+    }
+
+    .cart {
+        padding: 0px 0 !important;
+    }
+
+    .cart .nav-link {
+        padding: 0 0 !important;
+    }
+
+    .bottle {
+        width: 30%;
+    }
+
+    .friuts {
+        width: 44%;
+        left: auto;
+        bottom: 0;
+        top: auto;
+    }
+
+    .hero-main-title h1,
+    .A-better-text h2,
+    .Our-Specials h2,
+    .Our-Customers-title h2,
+    .Stay-Connected-title h2 {
+        font-size: 40px;
+    }
+
+    .hero-image-three img,
+    .hero-image-one img {
+        width: 150px;
+    }
+
+    .cold-drink-menu a li {
+        font-size: 40px;
+    }
+
+    .main-new-fresh-row {
+        flex-direction: column;
+    }
+
+    .hero-image-two img {
+        width: 40%;
+    }
+
+    .A-better,
+    .Our-Specials,
+    .main-cold-drink,
+    .kizzy-Strawberry-Milk,
+    .Stay-Connected,
+    .main-new-fresh,
+    .main-footer {
+        padding: 30px 30px !important;
+    }
+
+    .Our-Customers-title h2 {
+        padding: 30px 30px 40px 30px !important;
+    }
+
+    .cold-drink-img-one,
+    .cold-drink-img-two,
+    .cold-drink-img-three,
+    .cold-drink-img-four,
+    .cold-drink-img-five,
+    .cold-drink-img-six {
+        display: none;
+    }
+
+    .Our-Specials-img {
+        text-align: center;
+        margin-bottom: 30px !important;
+    }
+
+    .Main-Stay {
+        display: block;
+    }
+
+    .Stay-item {
+        margin-bottom: 30px !important;
+    }
+
+    .stay-img {
+        width: 100% !important;
+    }
+
+    .main-footer .row {
+        flex-direction: column-reverse;
+    }
+
+    .footer-logo {
+        margin-left: 0px !important;
+    }
+
+    .copyright {
+        margin: 30px 0 !important;
+    }
+
+    .footer-logo img {
+        width: 100%;
+    }
+
+    .form-submit {
+        position: relative;
+        margin-top: 20px !important;
+    }
+
+    .row.menu-fo {
+        flex-direction: column;
+    }
+
+    .footer-last-img {
+        display: none;
+    }
+
+    .footer-menu.d-flex.justify-content-between {
+        display: block !important;
+    }
+
+    .new-fresh-img img {
+        position: relative;
+        top: 0;
+        display: flex;
+        justify-content: center;
+        margin: 0 auto !important;
+    }
+
+    .new-fresh-box {
+        padding: 30px !important;
+        margin-top: 50px !important;
+    }
+
+    .main-new-fresh-row {
+        grid-row-gap: 0px;
+    }
+
+    .hero-image-two {
+        top: 0%;
+        bottom: auto;
+        left: auto;
+        display: flex;
+        justify-content: center;
+        margin: 0 auto !important;
+        z-index: 1;
+        right: 0%;
+    }
+
+    .hero-badge p {
+        width: 55%;
+        bottom: 25%;
+        left: -15%;
+    }
+
+    .hero-content {
+        padding: 50px 50px 112px 50px !important;
+    }
+}
