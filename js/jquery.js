@@ -18,20 +18,7 @@ $(document).ready(function () {
       $("#drink-bottle-one h4,#drink-bottle-one p").show();
     }
   );
-  $("#drink-bottle-two").hover(
-    function () {
-      $("#drink-bottle-two img").css({
-        transform: "rotate(10deg)",
-        transition: "1s",
-      });
-      $("#drink-bottle-two a").show();
-      $("#drink-bottle-two h4,#drink-bottle-two p").hide();
-    },
-    function () {
-      $("#drink-bottle-two img").css({
-        transform: "rotate(0deg)",
-        transition: "1s",
-      });
+
       $("#drink-bottle-two a").hide();
       $("#drink-bottle-two h4,#drink-bottle-two p").show();
     }
@@ -52,24 +39,6 @@ $(document).ready(function () {
       });
       $("#drink-bottle-three a").hide();
       $("#drink-bottle-three h4,#drink-bottle-three p").show();
-    }
-  );
-  $("#drink-bottle-four").hover(
-    function () {
-      $("#drink-bottle-four img").css({
-        transform: "rotate(10deg)",
-        transition: "1s",
-      });
-      $("#drink-bottle-four a").show();
-      $("#drink-bottle-four h4,#drink-bottle-four p").hide();
-    },
-    function () {
-      $("#drink-bottle-four img").css({
-        transform: "rotate(0deg)",
-        transition: "1s",
-      });
-      $("#drink-bottle-four a").hide();
-      $("#drink-bottle-four h4,#drink-bottle-four p").show();
     }
   );
 
@@ -159,4 +128,4 @@ $(document).ready(function () {
   //     transition: ".5s",
   //   });
   // });
-});
+// });
