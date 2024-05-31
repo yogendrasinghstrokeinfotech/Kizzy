@@ -10,6 +10,7 @@
     }
 }
 
+
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
     .Our-Specials-img {
         text-align: center;
@@ -48,40 +49,7 @@
         height: 150px;
     }
 
-    .A-better,
-    .Our-Specials,
-    .main-cold-drink,
-    .kizzy-Strawberry-Milk,
-    .Stay-Connected,
-    .main-new-fresh,
-    .main-footer {
-        padding: 50px 50px !important;
-    }
 
-    .main-new-fresh-row {
-        display: block;
-    }
-
-    .main-footer .row {
-        flex-direction: column-reverse;
-    }
-
-    .footer-logo {
-        margin-left: 0px !important;
-    }
-
-    .copyright {
-        margin: 30px 0 !important;
-    }
-
-    .row.menu-fo {
-        flex-direction: row;
-    }
-
-    .footer-last-img {
-        display: none;
-    }
-}
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     a.navbar-brand img {
